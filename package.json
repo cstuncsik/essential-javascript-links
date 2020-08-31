@@ -20,7 +20,7 @@
   },
   "files": [],
   "dependencies": {
-    "lodash": "^3.8.0"
+    "lodash": "^4.17.17"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.1.10",
